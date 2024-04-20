@@ -14,4 +14,4 @@ How to use:
 edit the data.csv file like so:
 First cell: Artist, second cell: Track name, Third cell: Album (if not applicable, just put a dash), Fourth cell: anchor tag with Download link and Preview link
 e.g. 
-Rick Astley,Together Forever,Whenever You Need Somebody,<a href="music/togetherforever.mp3" download>Download</a><a href="music/togetherforever.mp3">Preview</a>
+Rick Astley,Together Forever,Whenever You Need Somebody,&lt;a href="music/togetherforever.mp3" download&gt;Download&lt;/a&gt; / &lt;a href="music/togetherforever.mp3"&gt;Preview&lt;/a&gt;
